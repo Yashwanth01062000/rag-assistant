@@ -1,0 +1,71 @@
+id,question,type,expected_document,expected_section,expected_page,notes
+1,What is systems engineering?,simple,NASA Systems Engineering Handbook,2.0 Fundamentals of Systems Engineering,3,Replace/verify exact page against the supplied PDF before final scoring.
+2,What is technical requirements definition?,simple,NASA Systems Engineering Handbook,4.2 Technical Requirements Definition,40,Verify exact page in source.
+3,What is product verification?,simple,NASA Systems Engineering Handbook,5.3 Product Verification,83,Verify exact page in source.
+4,What is product validation?,simple,NASA Systems Engineering Handbook,5.4 Product Validation,98,Verify exact page in source.
+5,What is model-based systems engineering?,simple,NASA Systems Modeling Handbook for Systems Engineering,4.2 MBSE and the NASA Systems Engineering Process,10,Verify exact page in source.
+6,What is the purpose of the Systems Modeling Handbook?,simple,NASA Systems Modeling Handbook for Systems Engineering,1.1 Purpose,6,Verify exact page in source.
+7,What does the Software Engineering Handbook provide?,simple,NASA Software Engineering Handbook,Book A. Introduction,1,Verify exact page in source.
+8,What are stakeholder expectations?,simple,NASA Systems Engineering Handbook,4.1 Stakeholder Expectations Definition,33,Verify exact page in source.
+9,What is requirements management?,simple,NASA Systems Engineering Handbook,6.2 Requirements Management,131,Verify exact page in source.
+10,What is interface management?,simple,NASA Systems Engineering Handbook,6.3 Interface Management,136,Verify exact page in source.
+11,What is technical risk management?,simple,NASA Systems Engineering Handbook,6.4 Technical Risk Management,139,Verify exact page in source.
+12,What is configuration management?,simple,NASA Systems Engineering Handbook,6.5 Configuration Management,151,Verify exact page in source.
+13,What is technical data management?,simple,NASA Systems Engineering Handbook,6.6 Technical Data Management,158,Verify exact page in source.
+14,What is decision analysis?,simple,NASA Systems Engineering Handbook,6.8 Decision Analysis,197,Verify exact page in source.
+15,What is the metamodel?,simple,NASA Systems Modeling Handbook for Systems Engineering,7. The Metamodel,17,Verify exact page in source.
+16,What is model planning?,simple,NASA Systems Modeling Handbook for Systems Engineering,5. Model Planning,15,Verify exact page in source.
+17,What is the purpose of generating diagrams and tables from the model?,simple,NASA Systems Modeling Handbook for Systems Engineering,9. Generating Diagrams and Tables from the Model to Support Systems Engineering Products,46,Verify exact page in source.
+18,What is Book B in the Software Engineering Handbook?,simple,NASA Software Engineering Handbook,Book A. Introduction,2,Verify exact page in source.
+19,What is Book C in the Software Engineering Handbook?,simple,NASA Software Engineering Handbook,Book A. Introduction,2,Verify exact page in source.
+20,What is Book D in the Software Engineering Handbook?,simple,NASA Software Engineering Handbook,Book A. Introduction,2,Verify exact page in source.
+21,Where does the handbook discuss technical requirements definition?,retrieval,NASA Systems Engineering Handbook,4.2 Technical Requirements Definition,40,Verify exact page in source.
+22,Where does the handbook discuss requirements decomposition and allocation?,retrieval,NASA Systems Engineering Handbook,4.2.2.3 Requirements Decomposition Allocation and Validation,45,Verify exact page in source.
+23,Where does the handbook discuss capturing requirements?,retrieval,NASA Systems Engineering Handbook,4.2.2.4 Capturing Requirements and the Requirements Database,47,Verify exact page in source.
+24,Where does the handbook discuss product integration?,retrieval,NASA Systems Engineering Handbook,5.2 Product Integration,78,Verify exact page in source.
+25,Where does the handbook discuss verification procedures?,retrieval,NASA Systems Engineering Handbook,5.3.2.3 Verification Procedures,92,Verify exact page in source.
+26,Where does the handbook discuss validation guidance?,retrieval,NASA Systems Engineering Handbook,5.4.2 Product Validation Guidance,104,Verify exact page in source.
+27,Where does the handbook discuss technical planning?,retrieval,NASA Systems Engineering Handbook,6.1 Technical Planning,112,Verify exact page in source.
+28,Where does the handbook discuss risk-informed decision analysis?,retrieval,NASA Systems Engineering Handbook,6.8.2.8 Risk-Informed Decision Analysis Process Example,213,Verify exact page in source.
+29,Where does the Systems Modeling Handbook discuss SysML diagram types?,retrieval,NASA Systems Modeling Handbook for Systems Engineering,4.3.1.1 SysML Diagram Types,11,Verify exact page in source.
+30,Where does the Systems Modeling Handbook discuss modeling methodology?,retrieval,NASA Systems Modeling Handbook for Systems Engineering,4.3.2 Modeling Methodology,12,Verify exact page in source.
+31,Where does the Systems Modeling Handbook discuss stakeholder identification diagrams?,retrieval,NASA Systems Modeling Handbook for Systems Engineering,8.1 Stakeholders Identification and Expectations Statements bdd and Tables,22,Verify exact page in source.
+32,Where does the Systems Modeling Handbook discuss system requirements diagrams?,retrieval,NASA Systems Modeling Handbook for Systems Engineering,8.10 System Requirement Diagram,30,Verify exact page in source.
+33,Where does the Systems Modeling Handbook discuss requirements verification matrices?,retrieval,NASA Systems Modeling Handbook for Systems Engineering,8.16 Table for Requirements Verification Matrix,37,Verify exact page in source.
+34,Where does the Systems Modeling Handbook discuss V&V cases?,retrieval,NASA Systems Modeling Handbook for Systems Engineering,8.18 Use Case Diagram of V&V Cases,40,Verify exact page in source.
+35,Where does the Systems Modeling Handbook discuss validation traceability?,retrieval,NASA Systems Modeling Handbook for Systems Engineering,8.21 Requirements Diagram of Validation Requirement and traceability,43,Verify exact page in source.
+36,Where does the Software Engineering Handbook explain its six typical essay sections?,retrieval,NASA Software Engineering Handbook,Book A. Introduction,2,Verify exact page in source.
+37,Where does the Software Engineering Handbook discuss rationale?,retrieval,NASA Software Engineering Handbook,Book A. Introduction,2,Verify exact page in source.
+38,Where does the Software Engineering Handbook discuss guidance?,retrieval,NASA Software Engineering Handbook,Book A. Introduction,2,Verify exact page in source.
+39,Where does the Software Engineering Handbook discuss resources?,retrieval,NASA Software Engineering Handbook,Book A. Introduction,3,Verify exact page in source.
+40,Where does the Software Engineering Handbook discuss lessons learned?,retrieval,NASA Software Engineering Handbook,Book A. Introduction,3,Verify exact page in source.
+41,How are verification and validation different?,comparative,NASA Systems Engineering Handbook,2.4 Distinctions Between Product Verification and Product Validation,15,Verify exact page in source.
+42,How do technical requirements differ from stakeholder expectations?,comparative,NASA Systems Engineering Handbook,4.1 Stakeholder Expectations Definition; 4.2 Technical Requirements Definition,33;40,Verify exact pages in source.
+43,How does systems modeling differ from traditional systems engineering documentation?,comparative,NASA Systems Modeling Handbook for Systems Engineering,4.2 MBSE and the NASA Systems Engineering Process,10,Verify exact page in source.
+44,How do the Systems Engineering and Software Engineering Handbooks differ in purpose?,comparative,NASA Systems Engineering Handbook; NASA Software Engineering Handbook,1.1 Purpose; Book A. Introduction,1;1,Verify exact pages in source.
+45,How do product verification and product validation differ in their processes?,comparative,NASA Systems Engineering Handbook,5.3 Product Verification; 5.4 Product Validation,83;98,Verify exact pages in source.
+46,How does requirements management differ from requirements definition?,comparative,NASA Systems Engineering Handbook,4.2 Technical Requirements Definition; 6.2 Requirements Management,40;131,Verify exact pages in source.
+47,How do MOE and MOP appear in the Systems Modeling Handbook?,comparative,NASA Systems Modeling Handbook for Systems Engineering,9.3;9.5,48;50,Verify exact pages in source.
+48,How do system requirements diagrams and verification requirements diagrams differ?,comparative,NASA Systems Modeling Handbook for Systems Engineering,8.10;8.14,30;35,Verify exact pages in source.
+49,How does software assurance guidance relate to software engineering guidance in the supplied SWEHB?,comparative,NASA Software Engineering Handbook,Book A. Introduction,1,Verify exact page in source.
+50,How do technical risk management and decision analysis relate in the SE Handbook?,comparative,NASA Systems Engineering Handbook,6.4;6.8,139;197,Verify exact pages in source.
+51,How do stakeholder expectations become technical requirements and then get verified?,multi-hop,NASA Systems Engineering Handbook,4.1;4.2;5.3,33;40;83,Verify exact pages in source.
+52,How does MBSE connect NASA SE processes to work products and verification/validation?,multi-hop,NASA Systems Modeling Handbook for Systems Engineering,4.1;7;8;9,9;17;22;46,Verify exact pages in source.
+53,"How do requirements decomposition, allocation, and verification fit together?",multi-hop,NASA Systems Engineering Handbook,4.2.2.3;5.3,45;83,Verify exact pages in source.
+54,"How do stakeholder identification, expectations, ConOps, and technical requirements connect in the modeling handbook?",multi-hop,NASA Systems Modeling Handbook for Systems Engineering,8.1;8.2;8.3;9.1;9.4,22;24;24;46;49,Verify exact pages in source.
+55,"How do software requirements, guidance, resources, and lessons learned relate within the SWEHB?",multi-hop,NASA Software Engineering Handbook,Book A. Introduction,1;2;3,Verify exact pages in source.
+56,How do verification requirements lead to verification planning and results?,multi-hop,NASA Systems Modeling Handbook for Systems Engineering,8.14;8.15;8.16;8.17,35;35;37;39,Verify exact pages in source.
+57,How do validation requirements and traceability fit with validation compliance?,multi-hop,NASA Systems Modeling Handbook for Systems Engineering,8.21;8.22,43;44,Verify exact pages in source.
+58,How do requirements management and technical data management support systems engineering work?,multi-hop,NASA Systems Engineering Handbook,6.2;6.6,131;158,Verify exact pages in source.
+59,How does interface management connect with technical requirements?,multi-hop,NASA Systems Engineering Handbook,4.2;6.3,40;136,Verify exact pages in source.
+60,How does risk management connect with technical assessment and decision analysis?,multi-hop,NASA Systems Engineering Handbook,6.4;6.7;6.8,139;166;197,Verify exact pages in source.
+61,What is NASA's budget for 2030?,unanswerable,NONE,NONE,NONE,Should be refused because the supplied documents do not provide a 2030 NASA budget.
+62,Who will be NASA Administrator in 2030?,unanswerable,NONE,NONE,NONE,Should be refused.
+63,What is the weather at Kennedy Space Center tomorrow?,unanswerable,NONE,NONE,NONE,Should be refused.
+64,What is NASA's stock price today?,unanswerable,NONE,NONE,NONE,Should be refused.
+65,What is the current population of Mars?,unanswerable,NONE,NONE,NONE,Should be refused.
+66,What is the latest SpaceX launch date?,unanswerable,NONE,NONE,NONE,Should be refused.
+67,What is the salary of a NASA systems engineer?,unanswerable,NONE,NONE,NONE,Should be refused.
+68,What is NASA's 2040 mission budget?,unanswerable,NONE,NONE,NONE,Should be refused.
+69,What is the current price of a NASA spacecraft?,unanswerable,NONE,NONE,NONE,Should be refused.
+70,What is the current NASA employee count?,unanswerable,NONE,NONE,NONE,Should be refused.
